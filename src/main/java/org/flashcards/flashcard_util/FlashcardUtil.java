@@ -1,12 +1,12 @@
 package org.flashcards.flashcard_util;
 
-import org.flashcards.Card;
-import org.flashcards.FlashCard;
+import org.flashcards.object.Card;
+import org.flashcards.object.FlashCard;
 import org.flashcards.input_output.IO;
 import java.io.*;
 import java.util.*;
 
-import static org.flashcards.FlashCard.cards;
+import static org.flashcards.object.FlashCard.cards;
 public class FlashcardUtil implements FlashcardInterface {
 
     private final IO iOReader;

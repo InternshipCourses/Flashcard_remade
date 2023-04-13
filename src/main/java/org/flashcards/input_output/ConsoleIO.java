@@ -1,6 +1,5 @@
 package org.flashcards.input_output;
 
-import org.flashcards.FlashCard;
 import org.flashcards.log.Log;
 
 import java.io.BufferedReader;

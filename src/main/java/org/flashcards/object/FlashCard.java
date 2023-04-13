@@ -1,4 +1,4 @@
-package org.flashcards;
+package org.flashcards.object;
 
 import java.util.LinkedHashMap;
 
